@@ -1,1 +1,1 @@
-Code used for analyzing single point injection (SPI) stratospheric aerosol injection (SAI) data run on CESM-WACCM. 
+Code used for analyzing single point injection (SPI) stratospheric aerosol injection (SAI) data run on CESM-WACCM. Last updated May 19 2025. The actual data that the code works on is available on Globus.
